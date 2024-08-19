@@ -1,14 +1,11 @@
-# Deep Learning-Based Fault Detection System for Structural Defects in Nano-Quadcopters
 
-This repository contains the code and resources for our research project on developing a deep learning model to detect structural defects in nano-quadcopters, particularly the Crazyflie 2.1. The model aims to enhance the safety and performance of UAVs by identifying faults in real-time using advanced neural network techniques.
-
+This rapository contains a demo for developed deep learning-based system to detect structural defects in nano-quadcopters.
 
 
 # Deep Learning-Based Fault Detection System for Structural Defects in Nano-Quadcopters
 
 ## Overview
-
-This project, proposed for the KAUST Academy AI Summer Training 2024, focuses on developing a deep learning-based system to detect structural defects in nano-quadcopters. The increasing use of unmanned aerial vehicles (UAVs), particularly nano-quadcopters, in various industries necessitates reliable systems for ensuring their operational integrity and safety. Our solution aims to identify fault signatures in real-time to prevent potential failures and extend the lifespan of these UAVs.
+The increasing use of unmanned aerial vehicles (UAVs), particularly nano-quadcopters, in various industries necessitates reliable systems for ensuring their operational integrity and safety. Our solution aims to identify fault signatures in real-time to prevent potential failures and extend the lifespan of these UAVs.
 
 ## Problem Statement
 
