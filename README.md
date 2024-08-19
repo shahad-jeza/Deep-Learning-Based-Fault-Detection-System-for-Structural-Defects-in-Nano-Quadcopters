@@ -11,7 +11,7 @@ The increasing use of unmanned aerial vehicles (UAVs), particularly nano-quadcop
 
 Nano-quadcopters are widely used due to their small size and agility, but structural defects can lead to critical failures. Traditional inspection methods often fail to detect early signs of damage. This project aims to develop a neural network (NN) model to detect these defects efficiently, ensuring the safety and reliability of the UAVs.
 
-![Nano-Quadcopter](/Users/rawanyasir/Downloads/E8_W1_near_M3_M4.jpg)
+![Nano-Quadcopter](Images/E8_W1_near_M3_M4.jpg)
 
 ## Objectives
 
