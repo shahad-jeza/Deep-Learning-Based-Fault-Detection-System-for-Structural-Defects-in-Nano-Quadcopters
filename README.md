@@ -14,6 +14,8 @@ This project, proposed for the KAUST Academy AI Summer Training 2024, focuses on
 
 Nano-quadcopters are widely used due to their small size and agility, but structural defects can lead to critical failures. Traditional inspection methods often fail to detect early signs of damage. This project aims to develop a neural network (NN) model to detect these defects efficiently, ensuring the safety and reliability of the UAVs.
 
+![Nano-Quadcopter](/Users/rawanyasir/Downloads/E8_W1_near_M3_M4.jpg)
+
 ## Objectives
 
 - **Develop a Neural Network Model:** Create a model specifically designed for detecting structural defects in nano-quadcopters.
