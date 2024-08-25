@@ -1,4 +1,7 @@
 
+
+demo: https://huggingface.co/spaces/salohnana2018/UAV_Fault_Detection
+
 This rapository contains a demo for developed deep learning-based system to detect structural defects in nano-quadcopters.
 
 
